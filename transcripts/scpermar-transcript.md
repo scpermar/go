@@ -1,12 +1,14 @@
-### The Open-Source Masters
+### The Open-Source Datascience Masters 
+
+### scpermar transcript draft 
 
 Grad school is not a practical option based on current family demands. Online sources will allow me to learn with a faster feedback loop to gage my aptitude and enthusiasm for D.S. as a career evolution path.
 
 ### My Background ([linkedin](http://))
 
-Earned a BS CS at The University of Pittsburgh some time ago ... B4Y2k. Worked as java client-server dev in all parts of the SDLC and a transition to focus on Oracle SQL-PL/SQL to investigate problems from a data perspective.
+Earned a BS CS at The University of Pittsburgh some time ago ... B4Y2k. Worked as java client-server dev in all parts of the SDLC with the dominate experience investigating problems from a data perspective using Oracle SQL-PL/SQL.
 
-### Motivations of the Open Source M.S.
+### Motivations of the Open Source D.S.
 
 Data Science is an ideal combination of my experience with solving code related problems through data analysis, a fascination with understanding how everything works and an ability to visualize ideas from many perspectives including the communication skills to explain these ideas to others. 
 
@@ -30,9 +32,14 @@ Plan a curriculum to build a solid understanding of the fundamental DS concepts.
 Intro to DS [Audacity]
 * *Recommended by reddit/r/datascience/wiki*
 
+* Python Tutorial somewhere
+
 ## The Data Science Curriculum 
 stats
 linear alg
+* []**Intro to Data Science** [UW / Coursera](https://www.coursera.org/course/datasci)
+ * *Topics:* Python NLP on Twitter API, Distributed Computing Paradigm, MapReduce/Hadoop & Pig Script, SQL/NoSQL, Relational Algebra, Experiment design, Statistics, Graphs, Amazon EC2, Visualization.
+
 
 
 *ADDING [] by the resources below that I'm considering/interesting*
